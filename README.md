@@ -71,7 +71,6 @@ I also like thinking beyond the expected flow — testing edge cases, considerin
 💼 Multi-User Portfolio CMS
 → Backend / REST API / Authentication / PostgreSQL
 
-### Bank Management System
 
 
 
