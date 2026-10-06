@@ -55,7 +55,7 @@ I also have a strong interest in AI and Machine Learning, especially Computer Vi
 <br>   
 
 
-## Currently Learning
+## 🟡 Currently Learning
 
 - Backend architecture and scalable API design.
 - PostgreSQL and database design.
@@ -64,7 +64,7 @@ I also have a strong interest in AI and Machine Learning, especially Computer Vi
 - Data Structures & Algorithms / Problem Solving.
 - Large Language Models and Generative AI.
 
-## What's Next
+## ⏭️ What's Next
 
 My goal is to gradually move deeper into software engineering and AI,
 with a focus on building reliable systems rather than only using existing tools.
@@ -77,7 +77,7 @@ I'm particularly interested in:
 - Model integration and deployment
 - Software testing and security
 
-## How I Like to Build
+## 🛠️ How I Like to Build
 
 I prefer understanding the "why" behind the code rather than
 just making something work.
@@ -93,7 +93,7 @@ and the systems that connect everything together.
 I also like thinking beyond the expected flow — testing edge cases, considering how a system behaves when things go wrong, and making sure the logic handles unexpected inputs and situations.
 
 
-## Featured Projects
+## ✨ Featured Projects
 
 🌿 AgroSnap
 → AI / Computer Vision / Model Integration
@@ -108,8 +108,8 @@ I also like thinking beyond the expected flow — testing edge cases, considerin
 
 
 
-## Connect With Me
+## 🤝 Let's Talk
 
-- [LinkedIn](www.linkedin.com/in/aseel-khanfar-4a26731b8)
-- [Email](mailto:aseel.a.kh01@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/aseel-khanfar-4a26731b8)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aseel.a.kh01@gmail.com)
 
