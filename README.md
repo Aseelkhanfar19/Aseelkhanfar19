@@ -1,4 +1,6 @@
 # Hi, I'm Aseel 👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aseel-khanfar-4a26731b8)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aseel.a.kh01@gmail.com)
 
 ## About Me
 I'm a Computer Science graduate focused on building software from the logic and backend up. I enjoy understanding how systems work under the hood, designing APIs, working with databases, and solving problems rather than only focusing on the interface.
@@ -110,6 +112,6 @@ I also like thinking beyond the expected flow — testing edge cases, considerin
 
 ## 🤝 Let's Talk
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/aseel-khanfar-4a26731b8)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aseel-khanfar-4a26731b8)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aseel.a.kh01@gmail.com)
 
