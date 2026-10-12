@@ -63,7 +63,6 @@ I also have a strong interest in AI and Machine Learning, especially Computer Vi
 - PostgreSQL and database design.
 - Authentication, authorization, and API security.
 - Testing and debugging backend applications.
-- Data Structures & Algorithms / Problem Solving.
 - Large Language Models and Generative AI.
 
 ## ⏭️ What's Next
